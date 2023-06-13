@@ -1,0 +1,35 @@
+﻿*, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 60px;
+    background-color: #4D6649
+}
+    .header .contact {
+        font-size: 14pt;
+        padding: 7px;
+        color:white;
+        
+    }
+        .header .contact .Cepnumber {
+            color: #F4F8DF;
+            font-size: 10pt;
+        }
+        .header .contact .homeNumber{
+            font-size:11pt;
+        }
+    .header .contact a:hover{
+        border-bottom:1px solid silver;
+    }
+.LoginRegisterLogo {
+    background-color: #e0e2c6;
+    height: 55px;
+}
+    .LoginRegisterLogo .marka {
+        font-family: 'Anton', sans-serif;
+        font-size: 22pt;
+        color: #4D6649;
+    }
+ 

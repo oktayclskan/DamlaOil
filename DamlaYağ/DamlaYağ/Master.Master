@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="DamlaYağ.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="Assetss/bootstrap-5.3.0-alpha3-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Assetss/Css/MasterCs.css" rel="stylesheet" />
+    <link href="Assetss/fontawesome-free-6.3.0-web/css/all.min.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container-fluid header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="row">
+                            <div class="col-sm-6 contact">
+                                <a class="text-decoration-none" href="#"><i class="fa-brands fa-whatsapp text-white"></i><span class="Cepnumber"><strong class="text-white">WhatsApp</strong> 0542 382 14 96 </span></a>
+                            </div>
+                            <div class="col-sm-6 contact">
+                                <span class="homeNumber">İletişim: 0266 392 1496</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-5 text-center text-white mt-2">
+                        <strong>Türkiye'nin Altın Madalyalı ZeytinYağı</strong>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="row">
+                            <div class="col-sm-6 text-center text-white mt-2">
+                                <span>Blog</span>
+                            </div>
+                            <div class="col-sm-6 text-success text-white contact">
+                                <a class="btn text-white" href="#"><i class="fa-solid fa-truck-fast "></i><span style="font-size: 12pt;">Kargo Takibi</span>
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+        <div class="container-fluid LoginRegisterLogo">
+            <div class="container">
+                <div class="row">
+                     <div class="col-md-6 text-center marka">
+                         <Span>Doğal Oil</Span>
+                </div>
+                <div class="col-md-5 ">
+                    <div class="float-end">
+                        adas
+                    </div>
+                </div>
+                </div>
+               
+            </div>
+        </div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script src="Assetss/fontawesome-free-6.3.0-web/js/all.min.js"></script>
+    <script src="Assetss/bootstrap-5.3.0-alpha3-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="Assetss/bootstrap-5.3.0-alpha3-dist/js/bootstrap.min.js"></script>
+    <script src="Assetss/Js/jquery-3.6.4.min.js"></script>
+</body>
+</html>
