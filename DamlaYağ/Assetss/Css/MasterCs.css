@@ -5,31 +5,56 @@
 
 .header {
     height: 60px;
-    background-color: #4D6649
+    background-color: #4D6649;
 }
+
     .header .contact {
         font-size: 14pt;
         padding: 7px;
-        color:white;
-        
+        color: white;
     }
+
         .header .contact .Cepnumber {
             color: #F4F8DF;
             font-size: 10pt;
+            z-index: 1;
         }
-        .header .contact .homeNumber{
-            font-size:11pt;
+
+        .header .contact .homeNumber {
+            font-size: 11pt;
         }
-    .header .contact a:hover{
-        border-bottom:1px solid silver;
-    }
+
+        .header .contact a:hover {
+            border-bottom: 1px solid silver;
+        }
+
 .LoginRegisterLogo {
     background-color: #e0e2c6;
     height: 55px;
 }
+
     .LoginRegisterLogo .marka {
         font-family: 'Anton', sans-serif;
         font-size: 22pt;
         color: #4D6649;
     }
- 
+
+.Menu {
+    width:100%;
+    margin-top:-8px;
+    border-top:2px solid silver;
+    height: 55px;
+    background-color: #e0e2c6;
+}
+    .Menu ul {
+        list-style-type: none;
+        margin-top: -8px;
+    }
+        .Menu ul a {
+            font-weight:500;
+            color: #4D6649;
+        }
+.sogukSikim .title {
+    margin-top:-15px;
+    color: #4D6649;
+}
