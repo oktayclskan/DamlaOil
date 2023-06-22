@@ -96,19 +96,19 @@
                     <div class="col-12">
                         <ul>
                             <a href="#" class="float-start btn">
-                                <li title="14 ürün var">Doğal Sıkım Zeytinyağı &nbsp<span class="badge badge-primary badge-pill text-bg-success">14</span></li>
+                                <li title="14 ürün var">Doğal Sıkım Zeytinyağı &nbsp<span class="badge badge-primary badge-pill text-bg-secondary">14</span></li>
                             </a>
                             <a href="#" class="float-start btn">
-                                <li title="25 ürün var">ssssssssss <span class="badge badge-primary badge-pill text-bg-success">25</span></li>
+                                <li title="25 ürün var">ssssssssss <span class="badge badge-primary badge-pill text-bg-secondary">25</span></li>
                             </a>
                             <a href="#" class="float-start btn">
-                                <li title="10 ürün var">ssssssssss <span class="badge badge-primary badge-pill text-bg-success">10</span></li>
+                                <li title="10 ürün var">ssssssssss <span class="badge badge-primary badge-pill text-bg-secondary">10</span></li>
                             </a>
                             <a href="#" class="float-start btn">
-                                <li title="17 ürün var">ssssssssss <span class="badge badge-primary badge-pill text-bg-success">17</span></li>
+                                <li title="17 ürün var">ssssssssss <span class="badge badge-primary badge-pill text-bg-secondary">17</span></li>
                             </a>
                             <a href="#" class="float-start btn">
-                                <li title="5 ürün var">ssssssssss  <span class="badge badge-primary badge-pill text-bg-success">5</span></li>
+                                <li title="5 ürün var">ssssssssss  <span class="badge badge-primary badge-pill text-bg-secondary">5</span></li>
                             </a>
                         </ul>
                     </div>
