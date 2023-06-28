@@ -1,0 +1,23 @@
+{
+  "zeytinyagi": [
+    {
+      "ProductName": "Alfreds Futterkiste",
+      "Aciklama": "Alfreds Futterkiste",
+      "Fiyat": "Berlin",
+      "AnaResim1": "Assetss/img/profil.png",
+      "AnaResim2": "Assetss/img/profil.png",
+      "AnaResim3": "Assetss/img/profil.png",
+      "IcerikResim": "Assetss/img/profil.png"
+
+    },
+    {
+      "ProductName": "Alfreds Futterkiste",
+      "Aciklama": "Alfreds Futterkiste",
+      "Fiyat": "Berlin",
+      "AnaResim1": "Assetss/img/profil.png",
+      "AnaResim2": "Assetss/img/profil.png",
+      "AnaResim3": "Assetss/img/profil.png",
+      "IcerikResim": "Assetss/img/profil.png"
+    }
+  ]
+}
